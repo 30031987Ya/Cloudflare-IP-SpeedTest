@@ -36,7 +36,7 @@ ipspeedtest 可以接受以下参数：
 程序还会将所有结果写入一个 CSV 文件中。
 
 # 许可证
-The MIT License (MIT)
+The MIT Licenses (MIT)
 
 此处，"软件" 指 Cloudflare IP 测速器。
 
